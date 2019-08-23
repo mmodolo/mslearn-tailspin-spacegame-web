@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mmodolo0287/Azure%20DevOps%20Demo%20Generator/_apis/build/status/mmodolo.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/mmodolo0287/Azure%20DevOps%20Demo%20Generator/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
