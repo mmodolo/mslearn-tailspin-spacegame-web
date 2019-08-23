@@ -1,5 +1,9 @@
+trigger:
+  branches:
+    - '*'
+
 pool:
-  vmImage: 'Ubuntu-16.04'
+vmImage: 'Ubuntu-16.04'
   demands:
     - npm
 
